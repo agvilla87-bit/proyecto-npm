@@ -28,3 +28,5 @@ app.post('/api/productos', (req, res) => {
 app.listen(3000, () => {
     console.log("Servidor activo en el puerto 3000");
 });
+
+console.log("Proyecto actualizado");

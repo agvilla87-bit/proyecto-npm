@@ -1,0 +1,11 @@
+{
+  "nombre": "Carlos",
+  "edad": 18,
+  "correo": "carlos@gmail.com",
+  "asignaturas": [
+    "Matemáticas",
+    "Historia",
+    "Programación",
+    "Inglés"
+  ]
+}
